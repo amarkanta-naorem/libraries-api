@@ -1,5 +1,3 @@
-# 📚 SmartLib
-
 <div align="center">
 
 **Your Digital Library Companion**  
