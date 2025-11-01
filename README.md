@@ -13,7 +13,7 @@ _Books Delivered to Your Doorstep_
 ## 🧰 Tech Stack & Tools Used
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <h3>🌐 Frontend</h3>
