@@ -12,19 +12,15 @@ _Books Delivered to Your Doorstep_
 
 ## 🧰 Tech Stack & Tools Used
 
-<div align="center">
-<table width="100%" cellspacing="0" cellpadding="30">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-    </td>
-  </tr>
-</table>
+<div>
+  <div style="display: inline-block;">
+    <p>🌐 Frontend</p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+  </div>
+  <div style="display: inline-block; float: right;">
+    <p>⚙️ Backend</p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  </div>
 </div>
 <br />
 <br />
