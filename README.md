@@ -14,20 +14,18 @@
 ## 🧰 Tech Stack & Tools Used
 
 <div align="center">
-
-<div>
-
-   ### 🌐 Frontend
-   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
-
-</div>
-
-<div>
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+    </td>
+  </tr>
+</table>
 </div>
 <br />
 <br />
