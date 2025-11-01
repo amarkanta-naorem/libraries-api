@@ -1,5 +1,7 @@
+
 <div align="center">
 
+# 📚 SmartLib
 **Your Digital Library Companion**  
 _Books Delivered to Your Doorstep_
 
@@ -7,6 +9,7 @@ _Books Delivered to Your Doorstep_
 ![Status](https://img.shields.io/badge/Status-Active-10B981?style=for-the-badge)
 
 </div>
+<br />
 
 ## 🧰 Tech Stack & Tools Used
 
