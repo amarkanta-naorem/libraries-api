@@ -12,7 +12,7 @@ class Book extends Model
     use SoftDeletes;
 
     protected $fillable = [
-        'parent_id', 'isbn', 'name', 'slug',
+        'parent_id', 'isbn', 'name', 'slug', 'thumbnail',
         'edition', 'format', 'language',
         'created_by', 'updated_by', 'deleted_by',
     ];

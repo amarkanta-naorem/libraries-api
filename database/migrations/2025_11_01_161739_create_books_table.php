@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('isbn')->unique();
             $table->string('name')->index();
             $table->string('slug')->unique();
+            $table->string('thumbnail')->nullable();
             $table->string('edition')->nullable();
             $table->enum('format', ['hardcover', 'paperback', 'e-book', 'audiobook'])->nullable();
             $table->string('language')->default('english');
